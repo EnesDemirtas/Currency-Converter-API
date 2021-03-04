@@ -1,6 +1,6 @@
 # What's Currency Converter API
 
-Currency Converter API is a simple currency converter.<br><br> Currency values are taken from ![Exchange Rates API](https://exchangeratesapi.io/).<br><br>
+Currency Converter API is a simple currency converter.<br><br> Currency values are taken from [Exchange Rates API](https://exchangeratesapi.io/).<br><br>
 Values are updated **daily**.
 
 ## How to Use?
